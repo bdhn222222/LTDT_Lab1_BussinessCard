@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussiness Card</string>
+    <string name="fullName">Hanh Nguyen</string>
+    <string name="title">25/10/2003</string>
+    <string name="telephone">+00 (00) 000 000</string>
+    <string name="email"> social@mediahandle</string>
+    <string name="address">Ton Duc Thang, Da Nang</string>
+</resources>
